@@ -1,16 +1,13 @@
-### Hi there 👋
+### Congratulations! You have found me!
 
-<!--
-**net2cn/net2cn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### So, I'm gonna tell you a little bit more about me.
 
-Here are some ideas to get you started:
+- 中文/English/日本語が少し (<-あの、私はまだ日本語を勉強します。間張ります！)
+- Currently I'm living in Guangzhou and studying mathematics.
+- As you expected, I'm some kind of *pseudo*-fullstack developer. Hence you may consider that everything will happen here.
+- Please note that I'm a super-duper lazy dog. I might not respond messages in time.
+- I'm a rookie illustrator so you may expect me to post some random illustrator on my SNS. (Yes, I have a Twitter account with the same name.)
+- Donate via XMR accepted: 49nBuMBAsdpd6rVcfCZ94SGEXtZWaSJsUEg7zHXVC5j4GfN9PRmy5UEQ9MLf7VRgv9VgsV4MAUrBicidsC3CFjdVSbj4v7Z
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Avatar](https://user-images.githubusercontent.com/6072596/138667694-5b3e50cb-08c7-468b-81fa-979d325422aa.png)
+(Please don't use this image without my permission. illst: me)
