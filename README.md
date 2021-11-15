@@ -9,5 +9,7 @@
 - I'm a rookie illustrator so you may expect me to post some random illustrator on my SNS. (Yes, I have a Twitter account with the same name.)
 - Donate via XMR accepted: 49nBuMBAsdpd6rVcfCZ94SGEXtZWaSJsUEg7zHXVC5j4GfN9PRmy5UEQ9MLf7VRgv9VgsV4MAUrBicidsC3CFjdVSbj4v7Z
 
+You can ask me to verify myself with this public key: [net2cn_0xA885E376_public.asc](net2cn_0xA885E376_public.asc)
+
 ![Avatar](https://user-images.githubusercontent.com/6072596/138667694-5b3e50cb-08c7-468b-81fa-979d325422aa.png)
 (Please don't use this image without my permission. illst: me)
