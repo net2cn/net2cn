@@ -2,8 +2,6 @@
 
 ### So, I'm gonna share you a little bit more about me.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=net2cn&layout=compact)
-
 - 会说中文。/English is also OK./日本語がちょっとできる。（また勉強しますから）
 - Currently I'm living in Guangzhou, China as a student and studying mathematics.
 - As you expected, I'm a kinda *pseudo*-fullstack developer. I do all kind of stuffs that are computer-related, from frontend to backend, even reverse-engineering.
